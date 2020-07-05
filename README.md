@@ -1,4 +1,32 @@
 # Bearfish
 Working out: HTML/SCSS/JS 
 
-Site: https://bearfish.ru/
+Site: https://bearfish.ru/<br>
+<a href="http://dShchet.github.io/Bearfish/index.html">index</a><br>
+<a href="http://dShchet.github.io/Bearfish/index-form-1.html">index-form-1</a><br>
+<a href="http://dShchet.github.io/Bearfish/index-form-2.html">index-form-2</a><br>
+<a href="http://dShchet.github.io/Bearfish/404.html">404</a><br>
+<a href="http://dShchet.github.io/Bearfish/about-payment.html">about-payment</a><br>
+<a href="http://dShchet.github.io/Bearfish/buy.html">buy</a><br>
+<a href="http://dShchet.github.io/Bearfish/cart.html">cart</a><br>
+<a href="http://dShchet.github.io/Bearfish/catalog-2.html">catalog-2</a><br>
+<a href="http://dShchet.github.io/Bearfish/catalog-button.html">catalog-button</a><br>
+<a href="http://dShchet.github.io/Bearfish/catalog-form.html">catalog-form</a><br>
+<a href="http://dShchet.github.io/Bearfish/catalog.html">catalog</a><br>
+<a href="http://dShchet.github.io/Bearfish/catalog_test.html">catalog_test</a><br>
+<a href="http://dShchet.github.io/Bearfish/comparison.html">comparison</a><br>
+<a href="http://dShchet.github.io/Bearfish/contacts.html">contacts</a><br>
+<a href="http://dShchet.github.io/Bearfish/delivery-map-2.html">delivery-map-2</a><br>
+<a href="http://dShchet.github.io/Bearfish/delivery-map.html">delivery-map</a><br>
+<a href="http://dShchet.github.io/Bearfish/delivery.html">delivery</a><br>
+<a href="http://dShchet.github.io/Bearfish/dirlist.txt">dirlis</a><br>
+<a href="http://dShchet.github.io/Bearfish/entrance.html">entrance</a><br>
+<a href="http://dShchet.github.io/Bearfish/order-2.html">order-2</a><br>
+<a href="http://dShchet.github.io/Bearfish/order-finished.html">order-finished</a><br>
+<a href="http://dShchet.github.io/Bearfish/order.html">order</a><br>
+<a href="http://dShchet.github.io/Bearfish/personal-area.html">personal-area</a><br>
+<a href="http://dShchet.github.io/Bearfish/product-reviews-description.html">product-reviews-description</a><br>
+<a href="http://dShchet.github.io/Bearfish/product-reviews.html">product-reviews</a><br>
+<a href="http://dShchet.github.io/Bearfish/product.html">product</a><br>
+<a href="http://dShchet.github.io/Bearfish/registration.html">registration</a><br>
+<a href="http://dShchet.github.io/Bearfish/text.html">text</a><br>
